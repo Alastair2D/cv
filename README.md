@@ -69,12 +69,12 @@ The emotional curriculum should not be underestimated.  I am proud to have more 
 
 **Edinburgh University** (2003-2007)
 
-- MA Economics & Philosophy, Upper Second
+- MA Economics & Philosophy
 - Captain of 1st XI & British Universities Cricket
 
  **Marlborough College** (1997-2002)
 
-● Academic & Sporting Bursary  ● Head of House  ● Captain of 1st XI Football, 1st XI Hockey, 1st XI Cricket
+● Academic & Sporting Bursary  ● Head of House  ● 1st XI Hockey, 1st XI Cricket & Captain of 1st XI Football
 
 
 ## Experience
@@ -96,7 +96,7 @@ Sales-Trader.  Global equities & derivatives for institutional clients
 
 ## Interests
 
-Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff (especially shoes).
+Outdoorsy stuff, theatre, non-fiction, music, the arts (!opera), travel (!flying), cycling, swimming, taking photographs, design, architecture, vacantly gazing at bodies of water & cleaning stuff.
 
 
 ## Volunteer Experience
