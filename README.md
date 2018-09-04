@@ -5,7 +5,7 @@
 
 I am a **full-stack junior developer**, currently studying at Makers Academy & graduating October 2018.
 
-After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  Before Makers, having studied AutoCAD at night school, I spent 18 months personally designing, demolishing & then rebuilding a house in Peckham.  
+After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  Before Makers, having studied AutoCAD at night school, I spent 18 months designing, demolishing & then rebuilding a house in Peckham.  
 
 My ambition now is to forge a career in software design & engineering.  I am looking for opportunities in London to work on interesting projects in effective teams.
 
@@ -14,7 +14,7 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
 ## Projects
 
-  For a complete list, see my [GitHub](https://github.com/Alastair3D?tab=repositories).
+  For a complete list, see my [GitHub](https://github.com/Alastair2D?tab=repositories).
 
   | Project   | Description | Technologies |
   |---        |---         |---           |
