@@ -18,9 +18,9 @@ My ambition now is to forge a career in software design & engineering.  I am loo
 
   | Project   | Description | Technologies |
   |---        |---         |---           |
-  | [UXBuddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys and review response data. | Rails, RSpec/Capybara |
-  |[Atomodoro](https://www.github.com/lsewilson/atomodoro)| A pomodoro timer Atom package. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
-  | [MakersBnB](https://github.com/lsewilson/makers-bnb) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |  
+  | [Injection_Dependent](https://github.com/Alastair2D/injection_dependent) | A mobile app - written in React Native and tested with Enzyme/Jest - to help people with Diabetes manage their condition. | React Native, Rails, Enzye, Jest |
+  |[Acebook](https://github.com/LazySamir/Acebook-EagleWithTopHat)| A two week group engineering project building a Facebook clone - initially in Rails and then converted to React.  | Ruby, Rails, RSpec, Devise, JavaScript, Enzyme, Jest, React |
+  | [MakersBnB](https://github.com/Alastair2D/makersBNB) | An AirBnB clone for which we taught ourselves Node in a week. | JavaScripot, Node.js, Express, Zombie, MongoDB | 
 
 
 ## Skills
