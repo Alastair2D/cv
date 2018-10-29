@@ -1,4 +1,4 @@
-## Alastair Edmonds
+## <p align="center"> Alastair Edmonds </p>
 
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair2D)
