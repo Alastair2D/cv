@@ -20,7 +20,7 @@ My ambition now is to forge a career in software design & engineering.  I am loo
   |---        |---         |---           |
   | [Injection_Dependent](https://github.com/Alastair2D/injection_dependent) | A mobile app - written in React Native and tested with Enzyme/Jest - to help people with Diabetes manage their condition. | React Native, Rails, Enzyme, Jest |
   |[Acebook](https://github.com/LazySamir/Acebook-EagleWithTopHat)| A two week group engineering project building a Facebook clone - initially in Rails and then converted to React.  | Ruby, Rails, RSpec, Devise, JavaScript, Enzyme, Jest, React |
-  | [MakersBnB](https://github.com/Alastair2D/makersBNB) | An AirBnB clone for which we taught ourselves Node in a week. | JavaScripot, Node.js, Express, Zombie, MongoDB | 
+  | [MakersBnB](https://github.com/Alastair2D/makersBNB) | An AirBnB clone for which we taught ourselves Node in a week. | JavaScript, Node.js, Express, Zombie, MongoDB | 
 
 
 ## Skills
