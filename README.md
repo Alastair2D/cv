@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="projects">Projects</a> | <a href="skills">Skills</a> | <a href="education">Education</a> | <a href="experience">Experience</a> | <a href="interests">Interests</a> | <a href="https://www.linkedin.com/in/alastairedmonds/">LinkedIn</a> </p>
 
-I am a **full-stack junior developer**, currently studying at Makers Academy & graduating October 2018.
+I am a **full-stack junior developer**, currently studying at Makers Academy & graduating November 2018.
 
 After 5 years trading equities & derivatives, I started a social finance consultancy – Cortex – to help address major social issues by structuring & implementing impact investments.  Before Makers, having studied AutoCAD at night school, I spent 18 months designing, demolishing & then rebuilding a house in Peckham.  
 
