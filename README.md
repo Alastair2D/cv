@@ -1,7 +1,7 @@
 ## <p align="center"> Alastair Edmonds </p>
 
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair2D)
+<p align="center"> [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/alastairedmonds/) | [Blog](https://medium.com/@alastair2D) </p>
 
 I am a **full-stack junior developer**, currently studying at Makers Academy & graduating October 2018.
 
